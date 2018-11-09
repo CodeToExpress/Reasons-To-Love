@@ -29,6 +29,6 @@ JavaScript, often abbreviated as JS, is a high-level, interpreted programming la
 - Mobile Application Development
 - Even beinig used in IoT these days
 
-## Referances
+## References
 
 - https://www.sitesbay.com/javascript/javascript-uses

@@ -5,3 +5,4 @@ Listing some imporatant and popular languages and why should you love them ðŸ’¯ð
 ## Languages
 
 - [JavaScript](./JavaScript/README.md)
+- [Java](./Java/README.md)
