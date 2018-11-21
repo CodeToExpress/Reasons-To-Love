@@ -9,6 +9,7 @@ Listing some imporatant and popular languages and why should you love them ðŸ’¯ð
 - [JavaScript](./JavaScript/README.md)
 - [Java](./Java/README.md)
 - [C](./C/README.md)
+- [C++](./CPP/README.md)
 
 ### Special Thanks
 
